@@ -1,0 +1,12 @@
+{
+  "name": "uber-promo-code-generator",
+  "version": "1.0.0",
+  "description": "A utility to generate and validate Uber promo codes for testing purposes",
+  "main": "src/generator.js",
+  "scripts": {
+    "test": "node tests/test.js",
+    "start": "node src/cli.js"
+  },
+  "keywords": ["uber", "promo", "code", "generator", "discount"],
+  "license": "MIT"
+}
